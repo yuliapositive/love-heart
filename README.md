@@ -4,7 +4,7 @@
 
 ## 🌟 Демо
 
-Открыть сайт: [https://yuliapositive.github.io/love/](https://yuliapositive.github.io/love/)
+Открыть сайт: [https://yuliapositive.github.io/love-heart/](https://yuliapositive.github.io/love-heart/)
 
 ## ✨ Особенности
 
